@@ -68,4 +68,8 @@ Build the script in jenkins.
 ![image](https://user-images.githubusercontent.com/63444224/228726654-d20628c1-1551-4c92-aa18-5e3dcaae687e.png)
 
 
+Allow port 8000 in EC2 inbound rules before running.
+The developer's would run in port 8000.
+
+![image](https://user-images.githubusercontent.com/63444224/228726951-373d7556-f67a-4946-ab05-999f494e28ec.png)
 
