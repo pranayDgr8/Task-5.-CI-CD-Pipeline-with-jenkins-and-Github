@@ -1,5 +1,7 @@
 # Task-5.-CI-CD-Pipeline-with-jenkins-and-Github
-
+This repository aims to build CD-CI pipelines for sample project- 
+https://github.com/pranayDgr8/node-todo-cicd
+using jenkins.
 
 Launch EC2 instance with ubuntu
 
