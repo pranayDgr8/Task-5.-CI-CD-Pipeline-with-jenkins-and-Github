@@ -49,5 +49,23 @@ Jenkins will be integreated to github.
 ![image](https://user-images.githubusercontent.com/63444224/228722741-ca4507ed-da20-49c0-853b-c131cfd25749.png)
 
 
+After integration follow the instructions that developer has mentioned in the readme.This will run the app in the github.
+
+
+This process can be done using docker 
+
+Install Docker(cmnd 14)
+Create Dockerfile and add commands(cmnd 15-20) to that file.
+Run docker file in demon mode(cmnd 21,22,23)
+![image](https://user-images.githubusercontent.com/63444224/228724086-86166b89-694f-4600-a47a-f08c719c0676.png)
+
+This process can be furthur automated in jenkins.
+Follow the instructions 24 - 27.
+Add docker commands to jenkins Shell.
+![image](https://user-images.githubusercontent.com/63444224/228726483-80213ee0-73a5-4cc3-bf72-5cadd32cb35d.png)
+
+Build the script in jenkins.
+![image](https://user-images.githubusercontent.com/63444224/228726654-d20628c1-1551-4c92-aa18-5e3dcaae687e.png)
+
 
 
